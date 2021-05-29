@@ -1,2 +1,2 @@
 # hello-world
-I want repository new
+I want reposi
